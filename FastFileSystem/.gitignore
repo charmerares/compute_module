@@ -1,0 +1,4 @@
+# IDE package
+.idea/
+# cmake result
+cmake-build-debug
