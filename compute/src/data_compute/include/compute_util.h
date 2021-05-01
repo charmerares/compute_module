@@ -36,4 +36,11 @@ double compute_extreme_difference(list<double> list);
  * @return
  */
 double compute_sum(list<double> list);
+
+/**
+ * 求平均值
+ * @param list
+ * @return
+ */
+double compute_average(list<double> list);
 #endif //FASTFILESYSTEM_COMPUTE_UTIL_H
